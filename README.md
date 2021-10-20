@@ -1,13 +1,13 @@
 # About Me
-### My name is Danny Zhen 
-### I am currently a senior at Baruch College majoring in Statistics & Quantitative Modeling with dual minors in Mathematics and Finance
-### I have previous experience as a Data Science/Business Development Intern 
-
-# <a href="Resume.pdf" class="image fit">Resume<img src="images/marr_pic.jpg" alt=""></a>
+### Hi, my name is Danny Zhen.
+### I am currently a senior at Baruch College majoring in Statistics & Quantitative Modeling with dual minoring in Mathematics and Finance.
 
 # Projects
+Nothing to show for now, but I am currently working on a sentiment analysis project on publicly traded stocks
 
 # Connect with me
+[Resume](http://dannyzhen2000.github.io/Resume.pdf)
+
 [LinkedIn](https://www.linkedin.com/in/dannyzhen/)
 
 [GitHub](https://github.com/dannyzhen2000)
